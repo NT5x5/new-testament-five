@@ -1,3 +1,4 @@
+
 async function loadPlan() {
   try {
     const res = await fetch('plan.json');
