@@ -1,16 +1,16 @@
 
 async function loadPlan() {
-  const res = await fetch('plan.json');
-  const data = await res.json();
-
-  if (document.getElementById('deeptips')) {
-    const ul = document.getElementById('deeptips');
-    data.digDeeper.forEach(tip => {
-      const li = document.createElement('li');
-      li.textContent = tip;
-      ul.appendChild(li);
-    });
+  try {
+    const res = await fetch('plan.json');
+    if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+    const data = await res.json();
+    // code to render the table
+  } catch (error) {
+    console.error('Failed to load plan:', error);
   }
+}
+
+loadPlan();
 
   const tbody = document.querySelector('#plan-table tbody');
   if (tbody) {
