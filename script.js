@@ -20,11 +20,16 @@ async function loadPlan() {
           `;
         }
 
-        tr.innerHTML = `
-          <td>${item.week}</td>
-          <td>${item.chapters.join(', ')}</td>
-          ${checkboxes}
-        `;
+       tr.innerHTML = `
+  <td>${item.week}</td>
+  <td>${item.chapters.join(', ')}</td>
+  <td>
+    ${item.overviewUrl 
+       ? `<a href="${item.overviewUrl}" target="_blank" rel="noopener noreferrer">Video</a>` 
+       : ''}
+  </td>
+  ${checkboxes}
+`;
         tbody.appendChild(tr);
       });
 
