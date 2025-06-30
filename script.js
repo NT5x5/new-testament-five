@@ -22,7 +22,6 @@ async function loadPlan() {
 
         tr.innerHTML = `
           <td>${item.week}</td>
-          <td>${item.dates[0]}–${item.dates[1]}</td>
           <td>${item.chapters.join(', ')}</td>
           ${checkboxes}
         `;
