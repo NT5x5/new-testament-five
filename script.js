@@ -6,43 +6,32 @@ async function loadPlan() {
     const data = await res.json();
 
     const tbody = document.querySelector('#plan-table tbody');
-    if (tbody) {
-      data.weeks.forEach(item => {
-        const tr = document.createElement('tr');
+    tbody.innerHTML = ''; // Clear previous content
 
-        // Render fixed 5 checkboxes for Mon–Fri
-        let checkboxes = '';
-        for (let i = 0; i < 5; i++) {
-          checkboxes += `
-            <td>
-              <input type="checkbox" onchange="updateDay(${item.week}, ${i}, this.checked)">
-            </td>
-          `;
-        }
+    data.weeks.forEach(item => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${item.week}</td>
+        <td>${item.chapters.join(', ')}</td>
+        <td><a href="${item.overviewUrl}" target="_blank" rel="noopener noreferrer">Overview Video</a></td>
+        <td><input type="checkbox" onchange="updateDone(${item.week}, 0, this.checked)"></td>
+        <td><input type="checkbox" onchange="updateDone(${item.week}, 1, this.checked)"></td>
+        <td><input type="checkbox" onchange="updateDone(${item.week}, 2, this.checked)"></td>
+        <td><input type="checkbox" onchange="updateDone(${item.week}, 3, this.checked)"></td>
+        <td><input type="checkbox" onchange="updateDone(${item.week}, 4, this.checked)"></td>
+      `;
+      tbody.appendChild(tr);
+    });
 
-       tr.innerHTML = `
-  <td>${item.week}</td>
-  <td>${item.chapters.join(', ')}</td>
-  <td>
-    ${item.overviewUrl 
-       ? `<a href="${item.overviewUrl}" target="_blank" rel="noopener noreferrer">Video</a>` 
-       : ''}
-  </td>
-  ${checkboxes}
-`;
-        tbody.appendChild(tr);
-      });
-
-      loadDone();
-    }
+    loadDone();
 
   } catch (error) {
     console.error('Failed to load plan:', error);
   }
 }
 
-function updateDay(week, dayIndex, done) {
-  localStorage.setItem(`week${week}_day${dayIndex}`, done);
+function updateDone(week, day, done) {
+  localStorage.setItem(`week${week}day${day}`, done);
 }
 
 function loadDone() {
@@ -50,7 +39,7 @@ function loadDone() {
     const week = tr.cells[0].textContent;
     const checkboxes = tr.querySelectorAll('input[type=checkbox]');
     checkboxes.forEach((chk, i) => {
-      chk.checked = (localStorage.getItem(`week${week}_day${i}`) === 'true');
+      chk.checked = (localStorage.getItem(`week${week}day${i}`) === 'true');
     });
   });
 }
