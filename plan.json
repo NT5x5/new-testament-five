@@ -1,739 +1,273 @@
+
 {
   "weeks": [
     {
       "week": 1,
-      "dates": [
-        "2025-01-06",
-        "2025-01-10"
-      ],
-      "chapters": [
-        "Mark 1",
-        "Mark 2",
-        "Mark 3",
-        "Mark 4",
-        "Mark 5"
-      ]
+      "chapters": ["Mark 1", "Mark 2", "Mark 3", "Mark 4", "Mark 5"],
+      "overviewUrl": "https://bibleproject.com/explore/mark/"
     },
     {
       "week": 2,
-      "dates": [
-        "2025-01-13",
-        "2025-01-17"
-      ],
-      "chapters": [
-        "Mark 6",
-        "Mark 7",
-        "Mark 8",
-        "Mark 9",
-        "Mark 10"
-      ]
+      "chapters": ["Mark 6", "Mark 7", "Mark 8", "Mark 9", "Mark 10"],
+      "overviewUrl": "https://bibleproject.com/explore/mark/"
     },
     {
       "week": 3,
-      "dates": [
-        "2025-01-20",
-        "2025-01-24"
-      ],
-      "chapters": [
-        "Mark 11",
-        "Mark 12",
-        "Mark 13",
-        "Mark 14",
-        "Mark 15"
-      ]
+      "chapters": ["Mark 11", "Mark 12", "Mark 13", "Mark 14", "Mark 15"],
+      "overviewUrl": "https://bibleproject.com/explore/mark/"
     },
     {
       "week": 4,
-      "dates": [
-        "2025-01-27",
-        "2025-01-31"
-      ],
-      "chapters": [
-        "Mark 16",
-        "Acts 1",
-        "Acts 2",
-        "Acts 3",
-        "Acts 4"
-      ]
+      "chapters": ["Mark 16", "Acts 1", "Acts 2", "Acts 3", "Acts 4"],
+      "overviewUrl": "https://bibleproject.com/explore/mark/"
     },
     {
       "week": 5,
-      "dates": [
-        "2025-02-03",
-        "2025-02-07"
-      ],
-      "chapters": [
-        "Acts 5",
-        "Acts 6",
-        "Acts 7",
-        "Acts 8",
-        "Acts 9"
-      ]
+      "chapters": ["Acts 5", "Acts 6", "Acts 7", "Acts 8", "Acts 9"],
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 6,
-      "dates": [
-        "2025-02-10",
-        "2025-02-14"
-      ],
-      "chapters": [
-        "Acts 10",
-        "Acts 11",
-        "Acts 12",
-        "Acts 13",
-        "Acts 14"
-      ]
+      "chapters": ["Acts 10", "Acts 11", "Acts 12", "Acts 13", "Acts 14"],
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 7,
-      "dates": [
-        "2025-02-17",
-        "2025-02-21"
-      ],
-      "chapters": [
-        "Acts 15",
-        "Acts 16",
-        "Acts 17",
-        "Acts 18",
-        "Acts 19"
-      ]
+      "chapters": ["Acts 15", "Acts 16", "Acts 17", "Acts 18", "Acts 19"],
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 8,
-      "dates": [
-        "2025-02-24",
-        "2025-02-28"
-      ],
-      "chapters": [
-        "Acts 20",
-        "Acts 21",
-        "Acts 22",
-        "Acts 23",
-        "Acts 24"
-      ]
+      "chapters": ["Acts 20", "Acts 21", "Acts 22", "Acts 23", "Acts 24"],
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 9,
-      "dates": [
-        "2025-03-03",
-        "2025-03-07"
-      ],
-      "chapters": [
-        "Acts 25",
-        "Acts 26",
-        "Acts 27",
-        "Acts 28",
-        "Romans 1"
-      ]
+      "chapters": ["Acts 25", "Acts 26", "Acts 27", "Acts 28", "Hebrews 1"],
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 10,
-      "dates": [
-        "2025-03-10",
-        "2025-03-14"
-      ],
-      "chapters": [
-        "Romans 2",
-        "Romans 3",
-        "Romans 4",
-        "Romans 5",
-        "Romans 6"
-      ]
+      "chapters": ["Hebrews 2", "Hebrews 3", "Hebrews 4", "Hebrews 5", "Hebrews 6"],
+      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
     },
     {
       "week": 11,
-      "dates": [
-        "2025-03-17",
-        "2025-03-21"
-      ],
-      "chapters": [
-        "Romans 7",
-        "Romans 8",
-        "Romans 9",
-        "Romans 10",
-        "Romans 11"
-      ]
+      "chapters": ["Hebrews 7", "Hebrews 8", "Hebrews 9", "Hebrews 10", "Hebrews 11"],
+      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
     },
     {
       "week": 12,
-      "dates": [
-        "2025-03-24",
-        "2025-03-28"
-      ],
-      "chapters": [
-        "Romans 12",
-        "Romans 13",
-        "Romans 14",
-        "Romans 15",
-        "Romans 16"
-      ]
+      "chapters": ["Hebrews 12", "Hebrews 13", "Galatians 1", "Galatians 2", "Galatians 3"],
+      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
     },
     {
       "week": 13,
-      "dates": [
-        "2025-03-31",
-        "2025-04-04"
-      ],
-      "chapters": [
-        "1 Corinthians 1",
-        "1 Corinthians 2",
-        "1 Corinthians 3",
-        "1 Corinthians 4",
-        "1 Corinthians 5"
-      ]
+      "chapters": ["Galatians 4", "Galatians 5", "Galatians 6", "James 1", "James 2"],
+      "overviewUrl": "https://bibleproject.com/explore/galatians/"
     },
     {
       "week": 14,
-      "dates": [
-        "2025-04-07",
-        "2025-04-11"
-      ],
-      "chapters": [
-        "1 Corinthians 6",
-        "1 Corinthians 7",
-        "1 Corinthians 8",
-        "1 Corinthians 9",
-        "1 Corinthians 10"
-      ]
+      "chapters": ["James 3", "James 4", "James 5", "Matthew 1", "Matthew 2"],
+      "overviewUrl": "https://bibleproject.com/explore/james/"
     },
     {
       "week": 15,
-      "dates": [
-        "2025-04-14",
-        "2025-04-18"
-      ],
-      "chapters": [
-        "1 Corinthians 11",
-        "1 Corinthians 12",
-        "1 Corinthians 13",
-        "1 Corinthians 14",
-        "1 Corinthians 15"
-      ]
+      "chapters": ["Matthew 3", "Matthew 4", "Matthew 5", "Matthew 6", "Matthew 7"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 16,
-      "dates": [
-        "2025-04-21",
-        "2025-04-25"
-      ],
-      "chapters": [
-        "1 Corinthians 16",
-        "2 Corinthians 1",
-        "2 Corinthians 2",
-        "2 Corinthians 3",
-        "2 Corinthians 4"
-      ]
+      "chapters": ["Matthew 8", "Matthew 9", "Matthew 10", "Matthew 11", "Matthew 12"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 17,
-      "dates": [
-        "2025-04-28",
-        "2025-05-02"
-      ],
-      "chapters": [
-        "2 Corinthians 5",
-        "2 Corinthians 6",
-        "2 Corinthians 7",
-        "2 Corinthians 8",
-        "2 Corinthians 9"
-      ]
+      "chapters": ["Matthew 13", "Matthew 14", "Matthew 15", "Matthew 16", "Matthew 17"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 18,
-      "dates": [
-        "2025-05-05",
-        "2025-05-09"
-      ],
-      "chapters": [
-        "2 Corinthians 10",
-        "2 Corinthians 11",
-        "2 Corinthians 12",
-        "2 Corinthians 13",
-        "Galatians 1"
-      ]
+      "chapters": ["Matthew 18", "Matthew 19", "Matthew 20", "Matthew 21", "Matthew 22"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 19,
-      "dates": [
-        "2025-05-12",
-        "2025-05-16"
-      ],
-      "chapters": [
-        "Galatians 2",
-        "Galatians 3",
-        "Galatians 4",
-        "Galatians 5",
-        "Galatians 6"
-      ]
+      "chapters": ["Matthew 23", "Matthew 24", "Matthew 25", "Matthew 26", "Matthew 27"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 20,
-      "dates": [
-        "2025-05-19",
-        "2025-05-23"
-      ],
-      "chapters": [
-        "Ephesians 1",
-        "Ephesians 2",
-        "Ephesians 3",
-        "Ephesians 4",
-        "Ephesians 5"
-      ]
-    },
+      "chapters": ["Matthew 28", "Romans 1", "Romans 2", "Romans 3", "Romans 4"],
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+    }
+  ]
+}
+{
+  "weeks": [
     {
       "week": 21,
-      "dates": [
-        "2025-05-26",
-        "2025-05-30"
-      ],
-      "chapters": [
-        "Ephesians 6",
-        "Philippians 1",
-        "Philippians 2",
-        "Philippians 3",
-        "Philippians 4"
-      ]
+      "chapters": ["Romans 5", "Romans 6", "Romans 7", "Romans 8", "Romans 9"],
+      "overviewUrl": "https://bibleproject.com/explore/romans/"
     },
     {
       "week": 22,
-      "dates": [
-        "2025-06-02",
-        "2025-06-06"
-      ],
-      "chapters": [
-        "Colossians 1",
-        "Colossians 2",
-        "Colossians 3",
-        "Colossians 4",
-        "1 Thessalonians 1"
-      ]
+      "chapters": ["Romans 10", "Romans 11", "Romans 12", "Romans 13", "Romans 14"],
+      "overviewUrl": "https://bibleproject.com/explore/romans/"
     },
     {
       "week": 23,
-      "dates": [
-        "2025-06-09",
-        "2025-06-13"
-      ],
-      "chapters": [
-        "1 Thessalonians 2",
-        "1 Thessalonians 3",
-        "1 Thessalonians 4",
-        "1 Thessalonians 5",
-        "2 Thessalonians 1"
-      ]
+      "chapters": ["Romans 15", "Romans 16", "Ephesians 1", "Ephesians 2", "Ephesians 3"],
+      "overviewUrl": "https://bibleproject.com/explore/romans/"
     },
     {
       "week": 24,
-      "dates": [
-        "2025-06-16",
-        "2025-06-20"
-      ],
-      "chapters": [
-        "2 Thessalonians 2",
-        "2 Thessalonians 3",
-        "1 Timothy 1",
-        "1 Timothy 2",
-        "1 Timothy 3"
-      ]
+      "chapters": ["Ephesians 4", "Ephesians 5", "Ephesians 6", "Philippians 1", "Philippians 2"],
+      "overviewUrl": "https://bibleproject.com/explore/ephesians/"
     },
     {
       "week": 25,
-      "dates": [
-        "2025-06-23",
-        "2025-06-27"
-      ],
-      "chapters": [
-        "1 Timothy 4",
-        "1 Timothy 5",
-        "1 Timothy 6",
-        "2 Timothy 1",
-        "2 Timothy 2"
-      ]
+      "chapters": ["Philippians 3", "Philippians 4", "Colossians 1", "Colossians 2", "Colossians 3"],
+      "overviewUrl": "https://bibleproject.com/explore/philippians/"
     },
     {
       "week": 26,
-      "dates": [
-        "2025-06-30",
-        "2025-07-04"
-      ],
-      "chapters": [
-        "2 Timothy 3",
-        "2 Timothy 4",
-        "Titus 1",
-        "Titus 2",
-        "Titus 3"
-      ]
+      "chapters": ["Colossians 4", "Philemon 1", "Luke 1", "Luke 2", "Luke 3"],
+      "overviewUrl": "https://bibleproject.com/explore/colossians/"
     },
     {
       "week": 27,
-      "dates": [
-        "2025-07-07",
-        "2025-07-11"
-      ],
-      "chapters": [
-        "Philemon 1",
-        "Hebrews 1",
-        "Hebrews 2",
-        "Hebrews 3",
-        "Hebrews 4"
-      ]
+      "chapters": ["Luke 4", "Luke 5", "Luke 6", "Luke 7", "Luke 8"],
+      "overviewUrl": "https://bibleproject.com/explore/luke/"
     },
     {
       "week": 28,
-      "dates": [
-        "2025-07-14",
-        "2025-07-18"
-      ],
-      "chapters": [
-        "Hebrews 5",
-        "Hebrews 6",
-        "Hebrews 7",
-        "Hebrews 8",
-        "Hebrews 9"
-      ]
+      "chapters": ["Luke 9", "Luke 10", "Luke 11", "Luke 12", "Luke 13"],
+      "overviewUrl": "https://bibleproject.com/explore/luke/"
     },
     {
       "week": 29,
-      "dates": [
-        "2025-07-21",
-        "2025-07-25"
-      ],
-      "chapters": [
-        "Hebrews 10",
-        "Hebrews 11",
-        "Hebrews 12",
-        "Hebrews 13",
-        "James 1"
-      ]
+      "chapters": ["Luke 14", "Luke 15", "Luke 16", "Luke 17", "Luke 18"],
+      "overviewUrl": "https://bibleproject.com/explore/luke/"
     },
     {
       "week": 30,
-      "dates": [
-        "2025-07-28",
-        "2025-08-01"
-      ],
-      "chapters": [
-        "James 2",
-        "James 3",
-        "James 4",
-        "James 5",
-        "1 Peter 1"
-      ]
+      "chapters": ["Luke 19", "Luke 20", "Luke 21", "Luke 22", "Luke 23"],
+      "overviewUrl": "https://bibleproject.com/explore/luke/"
     },
     {
       "week": 31,
-      "dates": [
-        "2025-08-04",
-        "2025-08-08"
-      ],
-      "chapters": [
-        "1 Peter 2",
-        "1 Peter 3",
-        "1 Peter 4",
-        "1 Peter 5",
-        "2 Peter 1"
-      ]
+      "chapters": ["Luke 24", "1 Corinthians 1", "1 Corinthians 2", "1 Corinthians 3", "1 Corinthians 4"],
+      "overviewUrl": "https://bibleproject.com/explore/luke/"
     },
     {
       "week": 32,
-      "dates": [
-        "2025-08-11",
-        "2025-08-15"
-      ],
-      "chapters": [
-        "2 Peter 2",
-        "2 Peter 3",
-        "1 John 1",
-        "1 John 2",
-        "1 John 3"
-      ]
+      "chapters": ["1 Corinthians 5", "1 Corinthians 6", "1 Corinthians 7", "1 Corinthians 8", "1 Corinthians 9"],
+      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
     },
     {
       "week": 33,
-      "dates": [
-        "2025-08-18",
-        "2025-08-22"
-      ],
-      "chapters": [
-        "1 John 4",
-        "1 John 5",
-        "2 John 1",
-        "3 John 1",
-        "Jude 1"
-      ]
+      "chapters": ["1 Corinthians 10", "1 Corinthians 11", "1 Corinthians 12", "1 Corinthians 13", "1 Corinthians 14"],
+      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
     },
     {
       "week": 34,
-      "dates": [
-        "2025-08-25",
-        "2025-08-29"
-      ],
-      "chapters": [
-        "Revelation 1",
-        "Revelation 2",
-        "Revelation 3",
-        "Revelation 4",
-        "Revelation 5"
-      ]
+      "chapters": ["1 Corinthians 15", "1 Corinthians 16", "2 Corinthians 1", "2 Corinthians 2", "2 Corinthians 3"],
+      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
     },
     {
       "week": 35,
-      "dates": [
-        "2025-09-01",
-        "2025-09-05"
-      ],
-      "chapters": [
-        "Revelation 6",
-        "Revelation 7",
-        "Revelation 8",
-        "Revelation 9",
-        "Revelation 10"
-      ]
+      "chapters": ["2 Corinthians 4", "2 Corinthians 5", "2 Corinthians 6", "2 Corinthians 7", "2 Corinthians 8"],
+      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
     },
     {
       "week": 36,
-      "dates": [
-        "2025-09-08",
-        "2025-09-12"
-      ],
-      "chapters": [
-        "Revelation 11",
-        "Revelation 12",
-        "Revelation 13",
-        "Revelation 14",
-        "Revelation 15"
-      ]
+      "chapters": ["2 Corinthians 9", "2 Corinthians 10", "2 Corinthians 11", "2 Corinthians 12", "2 Corinthians 13"],
+      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
     },
     {
       "week": 37,
-      "dates": [
-        "2025-09-15",
-        "2025-09-19"
-      ],
-      "chapters": [
-        "Revelation 16",
-        "Revelation 17",
-        "Revelation 18",
-        "Revelation 19",
-        "Revelation 20"
-      ]
+      "chapters": ["1 Timothy 1", "1 Timothy 2", "1 Timothy 3", "1 Timothy 4", "1 Timothy 5"],
+      "overviewUrl": "https://bibleproject.com/explore/1-timothy/"
     },
     {
       "week": 38,
-      "dates": [
-        "2025-09-22",
-        "2025-09-26"
-      ],
-      "chapters": [
-        "Revelation 21",
-        "Revelation 22",
-        "Matthew 1",
-        "Matthew 2",
-        "Matthew 3"
-      ]
+      "chapters": ["1 Timothy 6", "2 Timothy 1", "2 Timothy 2", "2 Timothy 3", "2 Timothy 4"],
+      "overviewUrl": "https://bibleproject.com/explore/2-timothy/"
     },
     {
       "week": 39,
-      "dates": [
-        "2025-09-29",
-        "2025-10-03"
-      ],
-      "chapters": [
-        "Matthew 4",
-        "Matthew 5",
-        "Matthew 6",
-        "Matthew 7",
-        "Matthew 8"
-      ]
+      "chapters": ["Titus 1", "Titus 2", "Titus 3", "1 John 1", "1 John 2"],
+      "overviewUrl": "https://bibleproject.com/explore/titus/"
     },
     {
       "week": 40,
-      "dates": [
-        "2025-10-06",
-        "2025-10-10"
-      ],
-      "chapters": [
-        "Matthew 9",
-        "Matthew 10",
-        "Matthew 11",
-        "Matthew 12",
-        "Matthew 13"
-      ]
-    },
+      "chapters": ["1 John 3", "1 John 4", "1 John 5", "2 John 1", "3 John 1"],
+      "overviewUrl": "https://bibleproject.com/explore/1-john/"
+    }
+  ]
+}
+{
+  "weeks": [
     {
       "week": 41,
-      "dates": [
-        "2025-10-13",
-        "2025-10-17"
-      ],
-      "chapters": [
-        "Matthew 14",
-        "Matthew 15",
-        "Matthew 16",
-        "Matthew 17",
-        "Matthew 18"
-      ]
+      "chapters": ["1 Peter 1", "1 Peter 2", "1 Peter 3", "1 Peter 4", "1 Peter 5"],
+      "overviewUrl": "https://bibleproject.com/explore/1-peter/"
     },
     {
       "week": 42,
-      "dates": [
-        "2025-10-20",
-        "2025-10-24"
-      ],
-      "chapters": [
-        "Matthew 19",
-        "Matthew 20",
-        "Matthew 21",
-        "Matthew 22",
-        "Matthew 23"
-      ]
+      "chapters": ["John 1", "John 2", "John 3", "John 4", "John 5"],
+      "overviewUrl": "https://bibleproject.com/explore/john/"
     },
     {
       "week": 43,
-      "dates": [
-        "2025-10-27",
-        "2025-10-31"
-      ],
-      "chapters": [
-        "Matthew 24",
-        "Matthew 25",
-        "Matthew 26",
-        "Matthew 27",
-        "Matthew 28"
-      ]
+      "chapters": ["John 6", "John 7", "John 8", "John 9", "John 10"],
+      "overviewUrl": "https://bibleproject.com/explore/john/"
     },
     {
       "week": 44,
-      "dates": [
-        "2025-11-03",
-        "2025-11-07"
-      ],
-      "chapters": [
-        "Luke 1",
-        "Luke 2",
-        "Luke 3",
-        "Luke 4",
-        "Luke 5"
-      ]
+      "chapters": ["John 11", "John 12", "John 13", "John 14", "John 15"],
+      "overviewUrl": "https://bibleproject.com/explore/john/"
     },
     {
       "week": 45,
-      "dates": [
-        "2025-11-10",
-        "2025-11-14"
-      ],
-      "chapters": [
-        "Luke 6",
-        "Luke 7",
-        "Luke 8",
-        "Luke 9",
-        "Luke 10"
-      ]
+      "chapters": ["John 16", "John 17", "John 18", "John 19", "John 20"],
+      "overviewUrl": "https://bibleproject.com/explore/john/"
     },
     {
       "week": 46,
-      "dates": [
-        "2025-11-17",
-        "2025-11-21"
-      ],
-      "chapters": [
-        "Luke 11",
-        "Luke 12",
-        "Luke 13",
-        "Luke 14",
-        "Luke 15"
-      ]
+      "chapters": ["John 21", "1 Thessalonians 1", "1 Thessalonians 2", "1 Thessalonians 3", "1 Thessalonians 4"],
+      "overviewUrl": "https://bibleproject.com/explore/john/"
     },
     {
       "week": 47,
-      "dates": [
-        "2025-11-24",
-        "2025-11-28"
-      ],
-      "chapters": [
-        "Luke 16",
-        "Luke 17",
-        "Luke 18",
-        "Luke 19",
-        "Luke 20"
-      ]
+      "chapters": ["1 Thessalonians 5", "2 Thessalonians 1", "2 Thessalonians 2", "2 Thessalonians 3", "2 Peter 1"],
+      "overviewUrl": "https://bibleproject.com/explore/1-thessalonians/"
     },
     {
       "week": 48,
-      "dates": [
-        "2025-12-01",
-        "2025-12-05"
-      ],
-      "chapters": [
-        "Luke 21",
-        "Luke 22",
-        "Luke 23",
-        "Luke 24",
-        "John 1"
-      ]
+      "chapters": ["2 Peter 2", "2 Peter 3", "Jude 1", "Revelation 1", "Revelation 2"],
+      "overviewUrl": "https://bibleproject.com/explore/2-peter/"
     },
     {
       "week": 49,
-      "dates": [
-        "2025-12-08",
-        "2025-12-12"
-      ],
-      "chapters": [
-        "John 2",
-        "John 3",
-        "John 4",
-        "John 5",
-        "John 6"
-      ]
+      "chapters": ["Revelation 3", "Revelation 4", "Revelation 5", "Revelation 6", "Revelation 7"],
+      "overviewUrl": "https://bibleproject.com/explore/revelation/"
     },
     {
       "week": 50,
-      "dates": [
-        "2025-12-15",
-        "2025-12-19"
-      ],
-      "chapters": [
-        "John 7",
-        "John 8",
-        "John 9",
-        "John 10",
-        "John 11"
-      ]
+      "chapters": ["Revelation 8", "Revelation 9", "Revelation 10", "Revelation 11", "Revelation 12"],
+      "overviewUrl": "https://bibleproject.com/explore/revelation/"
     },
     {
       "week": 51,
-      "dates": [
-        "2025-12-22",
-        "2025-12-26"
-      ],
-      "chapters": [
-        "John 12",
-        "John 13",
-        "John 14",
-        "John 15",
-        "John 16"
-      ]
+      "chapters": ["Revelation 13", "Revelation 14", "Revelation 15", "Revelation 16", "Revelation 17"],
+      "overviewUrl": "https://bibleproject.com/explore/revelation/"
     },
     {
       "week": 52,
-      "dates": [
-        "2025-12-29",
-        "2026-01-02"
-      ],
-      "chapters": [
-        "John 17",
-        "John 18",
-        "John 19",
-        "John 20",
-        "John 21"
-      ]
+      "chapters": ["Revelation 18", "Revelation 19", "Revelation 20", "Revelation 21", "Revelation 22"],
+      "overviewUrl": "https://bibleproject.com/explore/revelation/"
     }
-  ],
-  "digDeeper": [
-    "Underline or highlight key words or phrases.",
-    "Put it in your own words.",
-    "Ask and answer questions (who, what, why, how).",
-    "Capture the big idea.",
-    "Personalize the meaning."
   ]
 }
