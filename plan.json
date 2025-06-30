@@ -100,11 +100,7 @@
       "week": 20,
       "chapters": ["Matthew 28", "Romans 1", "Romans 2", "Romans 3", "Romans 4"],
       "overviewUrl": "https://bibleproject.com/explore/matthew/"
-    }
-  ]
-}
-{
-  "weeks": [
+    },
     {
       "week": 21,
       "chapters": ["Romans 5", "Romans 6", "Romans 7", "Romans 8", "Romans 9"],
@@ -204,11 +200,7 @@
       "week": 40,
       "chapters": ["1 John 3", "1 John 4", "1 John 5", "2 John 1", "3 John 1"],
       "overviewUrl": "https://bibleproject.com/explore/1-john/"
-    }
-  ]
-}
-{
-  "weeks": [
+    },
     {
       "week": 41,
       "chapters": ["1 Peter 1", "1 Peter 2", "1 Peter 3", "1 Peter 4", "1 Peter 5"],
