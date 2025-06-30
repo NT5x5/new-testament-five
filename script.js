@@ -13,7 +13,11 @@ async function loadPlan() {
           <td>${item.week}</td>
           <td>${item.dates[0]}–${item.dates[1]}</td>
           <td>${item.chapters.join(', ')}</td>
-          <td><input type="checkbox" onchange="updateDone(${item.week}, this.checked)"></td>
+          ${item.chapters.map((_, i) => `
+            <td>
+              <input type="checkbox" onchange="updateDay(${item.week}, ${i}, this.checked)">
+            </td>
+          `).join('')}
         `;
         tbody.appendChild(tr);
       });
@@ -25,16 +29,21 @@ async function loadPlan() {
   }
 }
 
-function updateDone(week, done) {
-  localStorage.setItem(`week${week}`, done);
+function updateDay(week, dayIndex, done) {
+  localStorage.setItem(`week${week}_day${dayIndex}`, done);
 }
 
 function loadDone() {
   document.querySelectorAll('#plan-table tbody tr').forEach(tr => {
     const week = tr.cells[0].textContent;
-    const chk = tr.querySelector('input[type=checkbox]');
-    chk.checked = (localStorage.getItem(`week${week}`) === 'true');
+    for (let i = 0; i < 5; i++) {
+      const chk = tr.querySelectorAll('input[type=checkbox]')[i];
+      chk.checked = (localStorage.getItem(`week${week}_day${i}`) === 'true');
+    }
   });
+}
+
+loadPlan();
 }
 
 loadPlan();
