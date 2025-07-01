@@ -70,7 +70,7 @@
         },
         {
           "chapter": "Acts 1",
-          "video": "https://bibleproject.com/explore/acts/"
+          "video": "https://bibleproject.com/explore/acts-1-12/"
         },
         {
           "chapter": "Acts 2"
@@ -117,6 +117,7 @@
         },
         {
           "chapter": "Acts 13"
+          "video": "https://bibleproject.com/explore/acts-13-28/"
         },
         {
           "chapter": "Acts 14"
@@ -280,7 +281,7 @@
         },
         {
           "chapter": "Matthew 1",
-          "video": "https://bibleproject.com/explore/matthew/"
+          "video": "https://bibleproject.com/explore/matthew-1-13/"
         },
         {
           "chapter": "Matthew 2"
@@ -335,6 +336,7 @@
         },
         {
           "chapter": "Matthew 14"
+                    "video": "https://bibleproject.com/explore/matthew-14-28/"
         },
         {
           "chapter": "Matthew 15"
@@ -395,7 +397,7 @@
         },
         {
           "chapter": "Romans 1",
-          "video": "https://bibleproject.com/explore/romans/"
+          "video": "https://bibleproject.com/explore/romans-1-4/"
         },
         {
           "chapter": "Romans 2"
@@ -413,6 +415,8 @@
       "days": [
         {
           "chapter": "Romans 5"
+          "video": "https://bibleproject.com/explore/romans-5-16/"
+
         },
         {
           "chapter": "Romans 6"
@@ -523,7 +527,7 @@
         },
         {
           "chapter": "Luke 1",
-          "video": "https://bibleproject.com/explore/luke/"
+          "video": "https://bibleproject.com/explore/luke-1-9/"
         },
         {
           "chapter": "Luke 2"
@@ -561,6 +565,8 @@
         },
         {
           "chapter": "Luke 10"
+          "video": "https://bibleproject.com/explore/luke-10-24/"
+
         },
         {
           "chapter": "Luke 11"
@@ -847,7 +853,7 @@
       "days": [
         {
           "chapter": "John 1",
-          "video": "https://bibleproject.com/explore/john/"
+          "video": "https://bibleproject.com/explore/john-1-12/"
         },
         {
           "chapter": "John 2"
@@ -894,6 +900,8 @@
         },
         {
           "chapter": "John 13"
+          "video": "https://bibleproject.com/explore/john-13-21/"
+
         },
         {
           "chapter": "John 14"
@@ -981,7 +989,7 @@
         },
         {
           "chapter": "Revelation 1",
-          "video": "https://bibleproject.com/explore/revelation/"
+          "video": "https://bibleproject.com/explore/revelation-1-11/"
         },
         {
           "chapter": "Revelation 2"
@@ -1025,6 +1033,7 @@
         },
         {
           "chapter": "Revelation 12"
+          "video": "https://bibleproject.com/explore/revelation-12-22/"
         }
       ]
     },
