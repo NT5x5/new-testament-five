@@ -10,10 +10,15 @@ async function loadPlan() {
 
     data.weeks.forEach(item => {
       const tr = document.createElement('tr');
+
+      const overviewCell = item.overviewUrl
+        ? `<a href="${item.overviewUrl}" target="_blank" rel="noopener noreferrer">Video</a>`
+        : ``;
+
       tr.innerHTML = `
         <td>${item.week}</td>
         <td>${item.chapters.join(', ')}</td>
-        <td><a href="${item.overviewUrl}" target="_blank" rel="noopener noreferrer">Overview Video</a></td>
+        <td>${overviewCell}</td>
         <td><input type="checkbox" onchange="updateDone(${item.week}, 0, this.checked)"></td>
         <td><input type="checkbox" onchange="updateDone(${item.week}, 1, this.checked)"></td>
         <td><input type="checkbox" onchange="updateDone(${item.week}, 2, this.checked)"></td>
