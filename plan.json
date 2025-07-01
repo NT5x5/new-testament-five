@@ -194,7 +194,7 @@
     {
       "week": 39,
       "chapters": ["Titus 1", "Titus 2", "Titus 3", "1 John 1", "1 John 2"],
-      "overviewUrl": ["https://bibleproject.com/explore/titus/" "https://bibleproject.com/explore/1-john/"]
+      "overviewUrl": "https://bibleproject.com/explore/titus/" 
     },
     {
       "week": 40,
