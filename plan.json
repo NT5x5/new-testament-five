@@ -14,122 +14,122 @@
     {
       "week": 3,
       "chapters": ["Mark 11", "Mark 12", "Mark 13", "Mark 14", "Mark 15"],
-      "overviewUrl": "https://bibleproject.com/explore/mark/"
+      "overviewUrl": ""
     },
     {
       "week": 4,
       "chapters": ["Mark 16", "Acts 1", "Acts 2", "Acts 3", "Acts 4"],
-      "overviewUrl": "https://bibleproject.com/explore/mark/"
+      "overviewUrl": "https://bibleproject.com/explore/acts/"
     },
     {
       "week": 5,
       "chapters": ["Acts 5", "Acts 6", "Acts 7", "Acts 8", "Acts 9"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "overviewUrl": ""
     },
     {
       "week": 6,
       "chapters": ["Acts 10", "Acts 11", "Acts 12", "Acts 13", "Acts 14"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "overviewUrl": ""
     },
     {
       "week": 7,
       "chapters": ["Acts 15", "Acts 16", "Acts 17", "Acts 18", "Acts 19"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "overviewUrl": ""
     },
     {
       "week": 8,
       "chapters": ["Acts 20", "Acts 21", "Acts 22", "Acts 23", "Acts 24"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "overviewUrl": ""
     },
     {
       "week": 9,
       "chapters": ["Acts 25", "Acts 26", "Acts 27", "Acts 28", "Hebrews 1"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
     },
     {
       "week": 10,
       "chapters": ["Hebrews 2", "Hebrews 3", "Hebrews 4", "Hebrews 5", "Hebrews 6"],
-      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
+      "overviewUrl": ""
     },
     {
       "week": 11,
       "chapters": ["Hebrews 7", "Hebrews 8", "Hebrews 9", "Hebrews 10", "Hebrews 11"],
-      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
+      "overviewUrl": ""
     },
     {
       "week": 12,
       "chapters": ["Hebrews 12", "Hebrews 13", "Galatians 1", "Galatians 2", "Galatians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
+      "overviewUrl": "https://bibleproject.com/explore/galatians/"
     },
     {
       "week": 13,
       "chapters": ["Galatians 4", "Galatians 5", "Galatians 6", "James 1", "James 2"],
-      "overviewUrl": "https://bibleproject.com/explore/galatians/"
+      "overviewUrl": "https://bibleproject.com/explore/james/"
     },
     {
       "week": 14,
       "chapters": ["James 3", "James 4", "James 5", "Matthew 1", "Matthew 2"],
-      "overviewUrl": "https://bibleproject.com/explore/james/"
+      "overviewUrl": "https://bibleproject.com/explore/matthew/"
     },
     {
       "week": 15,
       "chapters": ["Matthew 3", "Matthew 4", "Matthew 5", "Matthew 6", "Matthew 7"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": ""
     },
     {
       "week": 16,
       "chapters": ["Matthew 8", "Matthew 9", "Matthew 10", "Matthew 11", "Matthew 12"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": ""
     },
     {
       "week": 17,
       "chapters": ["Matthew 13", "Matthew 14", "Matthew 15", "Matthew 16", "Matthew 17"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": ""
     },
     {
       "week": 18,
       "chapters": ["Matthew 18", "Matthew 19", "Matthew 20", "Matthew 21", "Matthew 22"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": ""
     },
     {
       "week": 19,
       "chapters": ["Matthew 23", "Matthew 24", "Matthew 25", "Matthew 26", "Matthew 27"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": ""
     },
     {
       "week": 20,
       "chapters": ["Matthew 28", "Romans 1", "Romans 2", "Romans 3", "Romans 4"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "overviewUrl": "https://bibleproject.com/explore/romans/"
     },
     {
       "week": 21,
       "chapters": ["Romans 5", "Romans 6", "Romans 7", "Romans 8", "Romans 9"],
-      "overviewUrl": "https://bibleproject.com/explore/romans/"
+      "overviewUrl": ""
     },
     {
       "week": 22,
       "chapters": ["Romans 10", "Romans 11", "Romans 12", "Romans 13", "Romans 14"],
-      "overviewUrl": "https://bibleproject.com/explore/romans/"
+      "overviewUrl": ""
     },
     {
       "week": 23,
       "chapters": ["Romans 15", "Romans 16", "Ephesians 1", "Ephesians 2", "Ephesians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/romans/"
+      "overviewUrl": "https://bibleproject.com/explore/ephesians/"
     },
     {
       "week": 24,
       "chapters": ["Ephesians 4", "Ephesians 5", "Ephesians 6", "Philippians 1", "Philippians 2"],
-      "overviewUrl": "https://bibleproject.com/explore/ephesians/"
+      "overviewUrl": "https://bibleproject.com/explore/philippians/"
     },
     {
       "week": 25,
       "chapters": ["Philippians 3", "Philippians 4", "Colossians 1", "Colossians 2", "Colossians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/philippians/"
+      "overviewUrl": "https://bibleproject.com/explore/colossians/"
     },
     {
       "week": 26,
       "chapters": ["Colossians 4", "Philemon 1", "Luke 1", "Luke 2", "Luke 3"],
-      "overviewUrl": "https://bibleproject.com/explore/colossians/"
+      "overviewUrl": "https://bibleproject.com/explore/philemon/"
     },
     {
       "week": 27,
@@ -139,47 +139,47 @@
     {
       "week": 28,
       "chapters": ["Luke 9", "Luke 10", "Luke 11", "Luke 12", "Luke 13"],
-      "overviewUrl": "https://bibleproject.com/explore/luke/"
+      "overviewUrl": ""
     },
     {
       "week": 29,
       "chapters": ["Luke 14", "Luke 15", "Luke 16", "Luke 17", "Luke 18"],
-      "overviewUrl": "https://bibleproject.com/explore/luke/"
+      "overviewUrl": ""
     },
     {
       "week": 30,
       "chapters": ["Luke 19", "Luke 20", "Luke 21", "Luke 22", "Luke 23"],
-      "overviewUrl": "https://bibleproject.com/explore/luke/"
+      "overviewUrl": ""
     },
     {
       "week": 31,
       "chapters": ["Luke 24", "1 Corinthians 1", "1 Corinthians 2", "1 Corinthians 3", "1 Corinthians 4"],
-      "overviewUrl": "https://bibleproject.com/explore/luke/"
+      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
     },
     {
       "week": 32,
       "chapters": ["1 Corinthians 5", "1 Corinthians 6", "1 Corinthians 7", "1 Corinthians 8", "1 Corinthians 9"],
-      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
+      "overviewUrl": ""
     },
     {
       "week": 33,
       "chapters": ["1 Corinthians 10", "1 Corinthians 11", "1 Corinthians 12", "1 Corinthians 13", "1 Corinthians 14"],
-      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
+      "overviewUrl": ""
     },
     {
       "week": 34,
       "chapters": ["1 Corinthians 15", "1 Corinthians 16", "2 Corinthians 1", "2 Corinthians 2", "2 Corinthians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
+      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
     },
     {
       "week": 35,
       "chapters": ["2 Corinthians 4", "2 Corinthians 5", "2 Corinthians 6", "2 Corinthians 7", "2 Corinthians 8"],
-      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
+      "overviewUrl": ""
     },
     {
       "week": 36,
       "chapters": ["2 Corinthians 9", "2 Corinthians 10", "2 Corinthians 11", "2 Corinthians 12", "2 Corinthians 13"],
-      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
+      "overviewUrl": ""
     },
     {
       "week": 37,
@@ -194,12 +194,13 @@
     {
       "week": 39,
       "chapters": ["Titus 1", "Titus 2", "Titus 3", "1 John 1", "1 John 2"],
-      "overviewUrl": "https://bibleproject.com/explore/titus/"
+      "overviewUrl": "https://bibleproject.com/explore/titus/" "https://bibleproject.com/explore/1-john/"
     },
     {
       "week": 40,
       "chapters": ["1 John 3", "1 John 4", "1 John 5", "2 John 1", "3 John 1"],
-      "overviewUrl": "https://bibleproject.com/explore/1-john/"
+      "overviewUrl": "https://bibleproject.com/explore/2-john/"
+      "overviewUrl": "https://bibleproject.com/explore/3-john/"
     },
     {
       "week": 41,
