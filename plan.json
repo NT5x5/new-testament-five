@@ -3,263 +3,1070 @@
   "weeks": [
     {
       "week": 1,
-      "chapters": ["Mark 1", "Mark 2", "Mark 3", "Mark 4", "Mark 5"],
-      "overviewUrl": "https://bibleproject.com/explore/mark/"
+      "days": [
+        {
+          "chapter": "Mark 1",
+          "video": "https://bibleproject.com/explore/mark/"
+        },
+        {
+          "chapter": "Mark 2"
+        },
+        {
+          "chapter": "Mark 3"
+        },
+        {
+          "chapter": "Mark 4"
+        },
+        {
+          "chapter": "Mark 5"
+        }
+      ]
     },
     {
       "week": 2,
-      "chapters": ["Mark 6", "Mark 7", "Mark 8", "Mark 9", "Mark 10"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Mark 6"
+        },
+        {
+          "chapter": "Mark 7"
+        },
+        {
+          "chapter": "Mark 8"
+        },
+        {
+          "chapter": "Mark 9"
+        },
+        {
+          "chapter": "Mark 10"
+        }
+      ]
     },
     {
       "week": 3,
-      "chapters": ["Mark 11", "Mark 12", "Mark 13", "Mark 14", "Mark 15"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Mark 11"
+        },
+        {
+          "chapter": "Mark 12"
+        },
+        {
+          "chapter": "Mark 13"
+        },
+        {
+          "chapter": "Mark 14"
+        },
+        {
+          "chapter": "Mark 15"
+        }
+      ]
     },
     {
       "week": 4,
-      "chapters": ["Mark 16", "Acts 1", "Acts 2", "Acts 3", "Acts 4"],
-      "overviewUrl": "https://bibleproject.com/explore/acts/"
+      "days": [
+        {
+          "chapter": "Mark 16"
+        },
+        {
+          "chapter": "Acts 1",
+          "video": "https://bibleproject.com/explore/acts/"
+        },
+        {
+          "chapter": "Acts 2"
+        },
+        {
+          "chapter": "Acts 3"
+        },
+        {
+          "chapter": "Acts 4"
+        }
+      ]
     },
     {
       "week": 5,
-      "chapters": ["Acts 5", "Acts 6", "Acts 7", "Acts 8", "Acts 9"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Acts 5"
+        },
+        {
+          "chapter": "Acts 6"
+        },
+        {
+          "chapter": "Acts 7"
+        },
+        {
+          "chapter": "Acts 8"
+        },
+        {
+          "chapter": "Acts 9"
+        }
+      ]
     },
     {
       "week": 6,
-      "chapters": ["Acts 10", "Acts 11", "Acts 12", "Acts 13", "Acts 14"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Acts 10"
+        },
+        {
+          "chapter": "Acts 11"
+        },
+        {
+          "chapter": "Acts 12"
+        },
+        {
+          "chapter": "Acts 13"
+        },
+        {
+          "chapter": "Acts 14"
+        }
+      ]
     },
     {
       "week": 7,
-      "chapters": ["Acts 15", "Acts 16", "Acts 17", "Acts 18", "Acts 19"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Acts 15"
+        },
+        {
+          "chapter": "Acts 16"
+        },
+        {
+          "chapter": "Acts 17"
+        },
+        {
+          "chapter": "Acts 18"
+        },
+        {
+          "chapter": "Acts 19"
+        }
+      ]
     },
     {
       "week": 8,
-      "chapters": ["Acts 20", "Acts 21", "Acts 22", "Acts 23", "Acts 24"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Acts 20"
+        },
+        {
+          "chapter": "Acts 21"
+        },
+        {
+          "chapter": "Acts 22"
+        },
+        {
+          "chapter": "Acts 23"
+        },
+        {
+          "chapter": "Acts 24"
+        }
+      ]
     },
     {
       "week": 9,
-      "chapters": ["Acts 25", "Acts 26", "Acts 27", "Acts 28", "Hebrews 1"],
-      "overviewUrl": "https://bibleproject.com/explore/hebrews/"
+      "days": [
+        {
+          "chapter": "Acts 25"
+        },
+        {
+          "chapter": "Acts 26"
+        },
+        {
+          "chapter": "Acts 27"
+        },
+        {
+          "chapter": "Acts 28"
+        },
+        {
+          "chapter": "Hebrews 1",
+          "video": "https://bibleproject.com/explore/hebrews/"
+        }
+      ]
     },
     {
       "week": 10,
-      "chapters": ["Hebrews 2", "Hebrews 3", "Hebrews 4", "Hebrews 5", "Hebrews 6"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Hebrews 2"
+        },
+        {
+          "chapter": "Hebrews 3"
+        },
+        {
+          "chapter": "Hebrews 4"
+        },
+        {
+          "chapter": "Hebrews 5"
+        },
+        {
+          "chapter": "Hebrews 6"
+        }
+      ]
     },
     {
       "week": 11,
-      "chapters": ["Hebrews 7", "Hebrews 8", "Hebrews 9", "Hebrews 10", "Hebrews 11"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Hebrews 7"
+        },
+        {
+          "chapter": "Hebrews 8"
+        },
+        {
+          "chapter": "Hebrews 9"
+        },
+        {
+          "chapter": "Hebrews 10"
+        },
+        {
+          "chapter": "Hebrews 11"
+        }
+      ]
     },
     {
       "week": 12,
-      "chapters": ["Hebrews 12", "Hebrews 13", "Galatians 1", "Galatians 2", "Galatians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/galatians/"
+      "days": [
+        {
+          "chapter": "Hebrews 12"
+        },
+        {
+          "chapter": "Hebrews 13"
+        },
+        {
+          "chapter": "Galatians 1",
+          "video": "https://bibleproject.com/explore/galatians/"
+        },
+        {
+          "chapter": "Galatians 2"
+        },
+        {
+          "chapter": "Galatians 3"
+        }
+      ]
     },
     {
       "week": 13,
-      "chapters": ["Galatians 4", "Galatians 5", "Galatians 6", "James 1", "James 2"],
-      "overviewUrl": "https://bibleproject.com/explore/james/"
+      "days": [
+        {
+          "chapter": "Galatians 4"
+        },
+        {
+          "chapter": "Galatians 5"
+        },
+        {
+          "chapter": "Galatians 6"
+        },
+        {
+          "chapter": "James 1",
+          "video": "https://bibleproject.com/explore/james/"
+        },
+        {
+          "chapter": "James 2"
+        }
+      ]
     },
     {
       "week": 14,
-      "chapters": ["James 3", "James 4", "James 5", "Matthew 1", "Matthew 2"],
-      "overviewUrl": "https://bibleproject.com/explore/matthew/"
+      "days": [
+        {
+          "chapter": "James 3"
+        },
+        {
+          "chapter": "James 4"
+        },
+        {
+          "chapter": "James 5"
+        },
+        {
+          "chapter": "Matthew 1",
+          "video": "https://bibleproject.com/explore/matthew/"
+        },
+        {
+          "chapter": "Matthew 2"
+        }
+      ]
     },
     {
       "week": 15,
-      "chapters": ["Matthew 3", "Matthew 4", "Matthew 5", "Matthew 6", "Matthew 7"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Matthew 3"
+        },
+        {
+          "chapter": "Matthew 4"
+        },
+        {
+          "chapter": "Matthew 5"
+        },
+        {
+          "chapter": "Matthew 6"
+        },
+        {
+          "chapter": "Matthew 7"
+        }
+      ]
     },
     {
       "week": 16,
-      "chapters": ["Matthew 8", "Matthew 9", "Matthew 10", "Matthew 11", "Matthew 12"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Matthew 8"
+        },
+        {
+          "chapter": "Matthew 9"
+        },
+        {
+          "chapter": "Matthew 10"
+        },
+        {
+          "chapter": "Matthew 11"
+        },
+        {
+          "chapter": "Matthew 12"
+        }
+      ]
     },
     {
       "week": 17,
-      "chapters": ["Matthew 13", "Matthew 14", "Matthew 15", "Matthew 16", "Matthew 17"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Matthew 13"
+        },
+        {
+          "chapter": "Matthew 14"
+        },
+        {
+          "chapter": "Matthew 15"
+        },
+        {
+          "chapter": "Matthew 16"
+        },
+        {
+          "chapter": "Matthew 17"
+        }
+      ]
     },
     {
       "week": 18,
-      "chapters": ["Matthew 18", "Matthew 19", "Matthew 20", "Matthew 21", "Matthew 22"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Matthew 18"
+        },
+        {
+          "chapter": "Matthew 19"
+        },
+        {
+          "chapter": "Matthew 20"
+        },
+        {
+          "chapter": "Matthew 21"
+        },
+        {
+          "chapter": "Matthew 22"
+        }
+      ]
     },
     {
       "week": 19,
-      "chapters": ["Matthew 23", "Matthew 24", "Matthew 25", "Matthew 26", "Matthew 27"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Matthew 23"
+        },
+        {
+          "chapter": "Matthew 24"
+        },
+        {
+          "chapter": "Matthew 25"
+        },
+        {
+          "chapter": "Matthew 26"
+        },
+        {
+          "chapter": "Matthew 27"
+        }
+      ]
     },
     {
       "week": 20,
-      "chapters": ["Matthew 28", "Romans 1", "Romans 2", "Romans 3", "Romans 4"],
-      "overviewUrl": "https://bibleproject.com/explore/romans/"
+      "days": [
+        {
+          "chapter": "Matthew 28"
+        },
+        {
+          "chapter": "Romans 1",
+          "video": "https://bibleproject.com/explore/romans/"
+        },
+        {
+          "chapter": "Romans 2"
+        },
+        {
+          "chapter": "Romans 3"
+        },
+        {
+          "chapter": "Romans 4"
+        }
+      ]
     },
     {
       "week": 21,
-      "chapters": ["Romans 5", "Romans 6", "Romans 7", "Romans 8", "Romans 9"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Romans 5"
+        },
+        {
+          "chapter": "Romans 6"
+        },
+        {
+          "chapter": "Romans 7"
+        },
+        {
+          "chapter": "Romans 8"
+        },
+        {
+          "chapter": "Romans 9"
+        }
+      ]
     },
     {
       "week": 22,
-      "chapters": ["Romans 10", "Romans 11", "Romans 12", "Romans 13", "Romans 14"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Romans 10"
+        },
+        {
+          "chapter": "Romans 11"
+        },
+        {
+          "chapter": "Romans 12"
+        },
+        {
+          "chapter": "Romans 13"
+        },
+        {
+          "chapter": "Romans 14"
+        }
+      ]
     },
     {
       "week": 23,
-      "chapters": ["Romans 15", "Romans 16", "Ephesians 1", "Ephesians 2", "Ephesians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/ephesians/"
+      "days": [
+        {
+          "chapter": "Romans 15"
+        },
+        {
+          "chapter": "Romans 16"
+        },
+        {
+          "chapter": "Ephesians 1",
+          "video": "https://bibleproject.com/explore/ephesians/"
+        },
+        {
+          "chapter": "Ephesians 2"
+        },
+        {
+          "chapter": "Ephesians 3"
+        }
+      ]
     },
     {
       "week": 24,
-      "chapters": ["Ephesians 4", "Ephesians 5", "Ephesians 6", "Philippians 1", "Philippians 2"],
-      "overviewUrl": "https://bibleproject.com/explore/philippians/"
+      "days": [
+        {
+          "chapter": "Ephesians 4"
+        },
+        {
+          "chapter": "Ephesians 5"
+        },
+        {
+          "chapter": "Ephesians 6"
+        },
+        {
+          "chapter": "Philippians 1",
+          "video": "https://bibleproject.com/explore/philippians/"
+        },
+        {
+          "chapter": "Philippians 2"
+        }
+      ]
     },
     {
       "week": 25,
-      "chapters": ["Philippians 3", "Philippians 4", "Colossians 1", "Colossians 2", "Colossians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/colossians/"
+      "days": [
+        {
+          "chapter": "Philippians 3"
+        },
+        {
+          "chapter": "Philippians 4"
+        },
+        {
+          "chapter": "Colossians 1",
+          "video": "https://bibleproject.com/explore/colossians/"
+        },
+        {
+          "chapter": "Colossians 2"
+        },
+        {
+          "chapter": "Colossians 3"
+        }
+      ]
     },
     {
       "week": 26,
-      "chapters": ["Colossians 4", "Philemon 1", "Luke 1", "Luke 2", "Luke 3"],
-      "overviewUrl": "https://bibleproject.com/explore/philemon/"
+      "days": [
+        {
+          "chapter": "Colossians 4"
+        },
+        {
+          "chapter": "Philemon 1",
+          "video": "https://bibleproject.com/explore/philemon/"
+        },
+        {
+          "chapter": "Luke 1",
+          "video": "https://bibleproject.com/explore/luke/"
+        },
+        {
+          "chapter": "Luke 2"
+        },
+        {
+          "chapter": "Luke 3"
+        }
+      ]
     },
     {
       "week": 27,
-      "chapters": ["Luke 4", "Luke 5", "Luke 6", "Luke 7", "Luke 8"],
-      "overviewUrl": "https://bibleproject.com/explore/luke/"
+      "days": [
+        {
+          "chapter": "Luke 4"
+        },
+        {
+          "chapter": "Luke 5"
+        },
+        {
+          "chapter": "Luke 6"
+        },
+        {
+          "chapter": "Luke 7"
+        },
+        {
+          "chapter": "Luke 8"
+        }
+      ]
     },
     {
       "week": 28,
-      "chapters": ["Luke 9", "Luke 10", "Luke 11", "Luke 12", "Luke 13"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Luke 9"
+        },
+        {
+          "chapter": "Luke 10"
+        },
+        {
+          "chapter": "Luke 11"
+        },
+        {
+          "chapter": "Luke 12"
+        },
+        {
+          "chapter": "Luke 13"
+        }
+      ]
     },
     {
       "week": 29,
-      "chapters": ["Luke 14", "Luke 15", "Luke 16", "Luke 17", "Luke 18"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Luke 14"
+        },
+        {
+          "chapter": "Luke 15"
+        },
+        {
+          "chapter": "Luke 16"
+        },
+        {
+          "chapter": "Luke 17"
+        },
+        {
+          "chapter": "Luke 18"
+        }
+      ]
     },
     {
       "week": 30,
-      "chapters": ["Luke 19", "Luke 20", "Luke 21", "Luke 22", "Luke 23"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "Luke 19"
+        },
+        {
+          "chapter": "Luke 20"
+        },
+        {
+          "chapter": "Luke 21"
+        },
+        {
+          "chapter": "Luke 22"
+        },
+        {
+          "chapter": "Luke 23"
+        }
+      ]
     },
     {
       "week": 31,
-      "chapters": ["Luke 24", "1 Corinthians 1", "1 Corinthians 2", "1 Corinthians 3", "1 Corinthians 4"],
-      "overviewUrl": "https://bibleproject.com/explore/1-corinthians/"
+      "days": [
+        {
+          "chapter": "Luke 24"
+        },
+        {
+          "chapter": "1 Corinthians 1",
+          "video": "https://bibleproject.com/explore/1-corinthians/"
+        },
+        {
+          "chapter": "1 Corinthians 2"
+        },
+        {
+          "chapter": "1 Corinthians 3"
+        },
+        {
+          "chapter": "1 Corinthians 4"
+        }
+      ]
     },
     {
       "week": 32,
-      "chapters": ["1 Corinthians 5", "1 Corinthians 6", "1 Corinthians 7", "1 Corinthians 8", "1 Corinthians 9"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "1 Corinthians 5"
+        },
+        {
+          "chapter": "1 Corinthians 6"
+        },
+        {
+          "chapter": "1 Corinthians 7"
+        },
+        {
+          "chapter": "1 Corinthians 8"
+        },
+        {
+          "chapter": "1 Corinthians 9"
+        }
+      ]
     },
     {
       "week": 33,
-      "chapters": ["1 Corinthians 10", "1 Corinthians 11", "1 Corinthians 12", "1 Corinthians 13", "1 Corinthians 14"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "1 Corinthians 10"
+        },
+        {
+          "chapter": "1 Corinthians 11"
+        },
+        {
+          "chapter": "1 Corinthians 12"
+        },
+        {
+          "chapter": "1 Corinthians 13"
+        },
+        {
+          "chapter": "1 Corinthians 14"
+        }
+      ]
     },
     {
       "week": 34,
-      "chapters": ["1 Corinthians 15", "1 Corinthians 16", "2 Corinthians 1", "2 Corinthians 2", "2 Corinthians 3"],
-      "overviewUrl": "https://bibleproject.com/explore/2-corinthians/"
+      "days": [
+        {
+          "chapter": "1 Corinthians 15"
+        },
+        {
+          "chapter": "1 Corinthians 16"
+        },
+        {
+          "chapter": "2 Corinthians 1",
+          "video": "https://bibleproject.com/explore/2-corinthians/"
+        },
+        {
+          "chapter": "2 Corinthians 2"
+        },
+        {
+          "chapter": "2 Corinthians 3"
+        }
+      ]
     },
     {
       "week": 35,
-      "chapters": ["2 Corinthians 4", "2 Corinthians 5", "2 Corinthians 6", "2 Corinthians 7", "2 Corinthians 8"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "2 Corinthians 4"
+        },
+        {
+          "chapter": "2 Corinthians 5"
+        },
+        {
+          "chapter": "2 Corinthians 6"
+        },
+        {
+          "chapter": "2 Corinthians 7"
+        },
+        {
+          "chapter": "2 Corinthians 8"
+        }
+      ]
     },
     {
       "week": 36,
-      "chapters": ["2 Corinthians 9", "2 Corinthians 10", "2 Corinthians 11", "2 Corinthians 12", "2 Corinthians 13"],
-      "overviewUrl": ""
+      "days": [
+        {
+          "chapter": "2 Corinthians 9"
+        },
+        {
+          "chapter": "2 Corinthians 10"
+        },
+        {
+          "chapter": "2 Corinthians 11"
+        },
+        {
+          "chapter": "2 Corinthians 12"
+        },
+        {
+          "chapter": "2 Corinthians 13"
+        }
+      ]
     },
     {
       "week": 37,
-      "chapters": ["1 Timothy 1", "1 Timothy 2", "1 Timothy 3", "1 Timothy 4", "1 Timothy 5"],
-      "overviewUrl": "https://bibleproject.com/explore/1-timothy/"
+      "days": [
+        {
+          "chapter": "1 Timothy 1",
+          "video": "https://bibleproject.com/explore/1-timothy/"
+        },
+        {
+          "chapter": "1 Timothy 2"
+        },
+        {
+          "chapter": "1 Timothy 3"
+        },
+        {
+          "chapter": "1 Timothy 4"
+        },
+        {
+          "chapter": "1 Timothy 5"
+        }
+      ]
     },
     {
       "week": 38,
-      "chapters": ["1 Timothy 6", "2 Timothy 1", "2 Timothy 2", "2 Timothy 3", "2 Timothy 4"],
-      "overviewUrl": "https://bibleproject.com/explore/2-timothy/"
+      "days": [
+        {
+          "chapter": "1 Timothy 6"
+        },
+        {
+          "chapter": "2 Timothy 1",
+          "video": "https://bibleproject.com/explore/2-timothy/"
+        },
+        {
+          "chapter": "2 Timothy 2"
+        },
+        {
+          "chapter": "2 Timothy 3"
+        },
+        {
+          "chapter": "2 Timothy 4"
+        }
+      ]
     },
     {
       "week": 39,
-      "chapters": ["Titus 1", "Titus 2", "Titus 3", "1 John 1", "1 John 2"],
-      "overviewUrl": "https://bibleproject.com/explore/titus/" 
+      "days": [
+        {
+          "chapter": "Titus 1",
+          "video": "https://bibleproject.com/explore/titus/"
+        },
+        {
+          "chapter": "Titus 2"
+        },
+        {
+          "chapter": "Titus 3"
+        },
+        {
+          "chapter": "1 John 1",
+          "video": "https://bibleproject.com/explore/1-3-john/"
+        },
+        {
+          "chapter": "1 John 2"
+        }
+      ]
     },
     {
       "week": 40,
-      "chapters": ["1 John 3", "1 John 4", "1 John 5", "2 John 1", "3 John 1"],
-      "overviewUrl": "https://bibleproject.com/explore/2-john/"
+      "days": [
+        {
+          "chapter": "1 John 3"
+        },
+        {
+          "chapter": "1 John 4"
+        },
+        {
+          "chapter": "1 John 5"
+        },
+        {
+          "chapter": "2 John 1",
+          "video": "https://bibleproject.com/explore/1-3-john/"
+        },
+        {
+          "chapter": "3 John 1",
+          "video": "https://bibleproject.com/explore/1-3-john/"
+        }
+      ]
     },
     {
       "week": 41,
-      "chapters": ["1 Peter 1", "1 Peter 2", "1 Peter 3", "1 Peter 4", "1 Peter 5"],
-      "overviewUrl": "https://bibleproject.com/explore/1-peter/"
+      "days": [
+        {
+          "chapter": "1 Peter 1",
+          "video": "https://bibleproject.com/explore/1-peter/"
+        },
+        {
+          "chapter": "1 Peter 2"
+        },
+        {
+          "chapter": "1 Peter 3"
+        },
+        {
+          "chapter": "1 Peter 4"
+        },
+        {
+          "chapter": "1 Peter 5"
+        }
+      ]
     },
     {
       "week": 42,
-      "chapters": ["John 1", "John 2", "John 3", "John 4", "John 5"],
-      "overviewUrl": "https://bibleproject.com/explore/john/"
+      "days": [
+        {
+          "chapter": "John 1",
+          "video": "https://bibleproject.com/explore/john/"
+        },
+        {
+          "chapter": "John 2"
+        },
+        {
+          "chapter": "John 3"
+        },
+        {
+          "chapter": "John 4"
+        },
+        {
+          "chapter": "John 5"
+        }
+      ]
     },
     {
       "week": 43,
-      "chapters": ["John 6", "John 7", "John 8", "John 9", "John 10"],
-      "overviewUrl": "https://bibleproject.com/explore/john/"
+      "days": [
+        {
+          "chapter": "John 6"
+        },
+        {
+          "chapter": "John 7"
+        },
+        {
+          "chapter": "John 8"
+        },
+        {
+          "chapter": "John 9"
+        },
+        {
+          "chapter": "John 10"
+        }
+      ]
     },
     {
       "week": 44,
-      "chapters": ["John 11", "John 12", "John 13", "John 14", "John 15"],
-      "overviewUrl": "https://bibleproject.com/explore/john/"
+      "days": [
+        {
+          "chapter": "John 11"
+        },
+        {
+          "chapter": "John 12"
+        },
+        {
+          "chapter": "John 13"
+        },
+        {
+          "chapter": "John 14"
+        },
+        {
+          "chapter": "John 15"
+        }
+      ]
     },
     {
       "week": 45,
-      "chapters": ["John 16", "John 17", "John 18", "John 19", "John 20"],
-      "overviewUrl": "https://bibleproject.com/explore/john/"
+      "days": [
+        {
+          "chapter": "John 16"
+        },
+        {
+          "chapter": "John 17"
+        },
+        {
+          "chapter": "John 18"
+        },
+        {
+          "chapter": "John 19"
+        },
+        {
+          "chapter": "John 20"
+        }
+      ]
     },
     {
       "week": 46,
-      "chapters": ["John 21", "1 Thessalonians 1", "1 Thessalonians 2", "1 Thessalonians 3", "1 Thessalonians 4"],
-      "overviewUrl": "https://bibleproject.com/explore/john/"
+      "days": [
+        {
+          "chapter": "John 21"
+        },
+        {
+          "chapter": "1 Thessalonians 1",
+          "video": "https://bibleproject.com/explore/1-thessalonians/"
+        },
+        {
+          "chapter": "1 Thessalonians 2"
+        },
+        {
+          "chapter": "1 Thessalonians 3"
+        },
+        {
+          "chapter": "1 Thessalonians 4"
+        }
+      ]
     },
     {
       "week": 47,
-      "chapters": ["1 Thessalonians 5", "2 Thessalonians 1", "2 Thessalonians 2", "2 Thessalonians 3", "2 Peter 1"],
-      "overviewUrl": "https://bibleproject.com/explore/1-thessalonians/"
+      "days": [
+        {
+          "chapter": "1 Thessalonians 5"
+        },
+        {
+          "chapter": "2 Thessalonians 1",
+          "video": "https://bibleproject.com/explore/2-thessalonians/"
+        },
+        {
+          "chapter": "2 Thessalonians 2"
+        },
+        {
+          "chapter": "2 Thessalonians 3"
+        },
+        {
+          "chapter": "2 Peter 1",
+          "video": "https://bibleproject.com/explore/2-peter/"
+        }
+      ]
     },
     {
       "week": 48,
-      "chapters": ["2 Peter 2", "2 Peter 3", "Jude 1", "Revelation 1", "Revelation 2"],
-      "overviewUrl": "https://bibleproject.com/explore/2-peter/"
+      "days": [
+        {
+          "chapter": "2 Peter 2"
+        },
+        {
+          "chapter": "2 Peter 3"
+        },
+        {
+          "chapter": "Jude 1",
+          "video": "https://bibleproject.com/explore/jude/"
+        },
+        {
+          "chapter": "Revelation 1",
+          "video": "https://bibleproject.com/explore/revelation/"
+        },
+        {
+          "chapter": "Revelation 2"
+        }
+      ]
     },
     {
       "week": 49,
-      "chapters": ["Revelation 3", "Revelation 4", "Revelation 5", "Revelation 6", "Revelation 7"],
-      "overviewUrl": "https://bibleproject.com/explore/revelation/"
+      "days": [
+        {
+          "chapter": "Revelation 3"
+        },
+        {
+          "chapter": "Revelation 4"
+        },
+        {
+          "chapter": "Revelation 5"
+        },
+        {
+          "chapter": "Revelation 6"
+        },
+        {
+          "chapter": "Revelation 7"
+        }
+      ]
     },
     {
       "week": 50,
-      "chapters": ["Revelation 8", "Revelation 9", "Revelation 10", "Revelation 11", "Revelation 12"],
-      "overviewUrl": "https://bibleproject.com/explore/revelation/"
+      "days": [
+        {
+          "chapter": "Revelation 8"
+        },
+        {
+          "chapter": "Revelation 9"
+        },
+        {
+          "chapter": "Revelation 10"
+        },
+        {
+          "chapter": "Revelation 11"
+        },
+        {
+          "chapter": "Revelation 12"
+        }
+      ]
     },
     {
       "week": 51,
-      "chapters": ["Revelation 13", "Revelation 14", "Revelation 15", "Revelation 16", "Revelation 17"],
-      "overviewUrl": "https://bibleproject.com/explore/revelation/"
+      "days": [
+        {
+          "chapter": "Revelation 13"
+        },
+        {
+          "chapter": "Revelation 14"
+        },
+        {
+          "chapter": "Revelation 15"
+        },
+        {
+          "chapter": "Revelation 16"
+        },
+        {
+          "chapter": "Revelation 17"
+        }
+      ]
     },
     {
       "week": 52,
-      "chapters": ["Revelation 18", "Revelation 19", "Revelation 20", "Revelation 21", "Revelation 22"],
-      "overviewUrl": "https://bibleproject.com/explore/revelation/"
+      "days": [
+        {
+          "chapter": "Revelation 18"
+        },
+        {
+          "chapter": "Revelation 19"
+        },
+        {
+          "chapter": "Revelation 20"
+        },
+        {
+          "chapter": "Revelation 21"
+        },
+        {
+          "chapter": "Revelation 22"
+        }
+      ]
     }
   ]
 }
