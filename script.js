@@ -24,12 +24,12 @@ async function loadPlan() {
         }
 
         const checkboxId = `week${item.week}day${i}`;
-        tr.innerHTML += `
-          <td>
-            <label for="${checkboxId}">${day.chapter} ${videoIcons}</label>
-            <input type="checkbox" id="${checkboxId}" onchange="updateDone(${item.week}, ${i}, this.checked)">
-          </td>
-        `;
+       tr.innerHTML += `
+  <td>
+    <label for="${checkboxId}">${day.chapter} ${videoIcons}</label>
+    <input type="checkbox" id="${checkboxId}" onchange="updateDone(${item.week}, ${i}, this.checked)">
+  </td>
+`;
       });
 
       tbody.appendChild(tr);
